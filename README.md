@@ -10,6 +10,6 @@
         ./myshell
 
 ## Note:
-        Please choice line 88 or line 89, or None of that.
+        Please choose line 88 or line 89, or None of that.
         Mac : line 89 (signal(SIGTSTP, (void *)signal_easter_egg);)
         Ubuntu : line 88 (signal(20, (void *)signal_easter_egg);)
